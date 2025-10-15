@@ -275,7 +275,7 @@ async def main():
     
     # Get API key
     # api_key = os.getenv("OPENAI_API_KEY")
-    api_key="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"
+    api_key=""
     if not api_key:
         print("❌ Error: OPENAI_API_KEY not set")
         print("   Set it with: export OPENAI_API_KEY=sk-...")
