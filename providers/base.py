@@ -1,4 +1,4 @@
-"""Base AI Provider abstract class."""
+
 from abc import ABC, abstractmethod
 from typing import AsyncGenerator, Dict, Any
 
